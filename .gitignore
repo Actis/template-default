@@ -1,0 +1,39 @@
+# Global wildcards
+*~
+*.[7bgx]z
+*.bak
+*.dll
+*.exe
+*.[jrt]ar
+*.log
+*.obj
+*.old
+*.orig
+*.pdb
+*.sav
+*.tgz
+*.tmp
+*.zip
+
+# Well-known infrastructure folders
+/build/
+/packages/
+/target/
+aspnet_client/
+node_modules/
+
+# IDEs
+.idea/
+.metadata/
+.settings/
+.vs/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.iml
+*.userprefs
+
+# Operating systems generated
+__MACOSX/
+*.DS_Store
+[Dd]esktop.ini
+[Tt]humbs.db
