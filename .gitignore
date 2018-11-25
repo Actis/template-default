@@ -1,0 +1,51 @@
+# Global wildcards
+*~
+*.[7bgx]z
+*.bak
+*.cab
+*.dll
+*.exe
+*.fla
+*.[jrt]ar
+*.log
+*.obj
+*.old
+*.orig
+*.pdb
+*.sav
+*.tgz
+*.tmp
+*.zip
+
+# SQLite
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+*.*-journal
+*.*-shm
+*.*-wal
+
+# Well-known infrastructure folders
+/artifacts/
+/packages/
+/target/
+aspnet_client/
+node_modules/
+
+# IDEs
+.idea/
+.metadata/
+.settings/
+.vs/
+.vscode/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.iml
+*.userprefs
+
+# Operating systems generated
+__MACOSX/
+*.DS_Store
+[Dd]esktop.ini
+[Tt]humbs.db
